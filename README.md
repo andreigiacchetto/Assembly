@@ -1,9 +1,11 @@
-# run_assembly.py
+# Assembly automatized
 
 Pipeline automatizado e **offline-first** para controle de qualidade, trimagem, montagem *de novo*, scaffolding opcional e anotação de genomas bacterianos via linha de comando.
 
 **Autor:** Andrei Giacchetto Felice
+
 **Instituição:** Laboratory of Immunology and Bioinformatics — Federal University of Triângulo Mineiro (UFTM)
+
 **Versão:** 2.0
 
 ---
